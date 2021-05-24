@@ -1,0 +1,8 @@
+{
+  "Cost":
+  [
+    {"BuildType": "GoldMine", "firstToSecondLevelCost":150, "secondToThirdLevelCost":300, "thirdToFourthLevelCost": 600},
+    {"BuildType": "Barrack", "firstToSecondLevelCost":100, "secondToThirdLevelCost":200, "thirdToFourthLevelCost": 400},
+    {"BuildType": "House", "firstToSecondLevelCost":200, "secondToThirdLevelCost":400, "thirdToFourthLevelCost": 800}
+  ]
+}
