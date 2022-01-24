@@ -24,7 +24,7 @@ public class GameManager
     {
         var index = Random.Range(1, 6);
         Debug.Log(index);
-        gameData = new Data(index);
+        gameData = new Data(1);
     }
     public void Update()
     {
